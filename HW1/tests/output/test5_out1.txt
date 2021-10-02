@@ -1,0 +1,20 @@
+Filled container:
+Container contains 18 elements.
+0: It is tree: age = 29, name = tree#abooo. Quotient = 0.6
+1: It is tree: age = 93, name = tree#aeeee. Quotient = 0.7
+2: It is shrub: flowering season = january, name = shrub#aboiy. Quotient = 0.454545
+3: It is shrub: flowering season = february, name = shrub#aoiut. Quotient = 0.454545
+4: It is shrub: flowering season = march, name = shrub#aiosp. Quotient = 0.363636
+5: It is flower: flower type = domestic, name = flower#abbbb. Quotient = 0.25
+6: It is flower: flower type = garden, name = flower#aab$b. Quotient = 0.333333
+7: It is flower: flower type = wild, name = flower#aoesz. Quotient = 0.416667
+8: Invalid plant type!
+9: It is tree: age = 29, name = tree#aasad. Quotient = 0.5
+10: It is tree: age = 93, name = tree#aaisd. Quotient = 0.5
+11: It is shrub: flowering season = january, name = shrub#iozhe. Quotient = 0.363636
+12: It is shrub: flowering season = february, name = shrub#ooiuz. Quotient = 0.454545
+13: It is shrub: flowering season = march, name = shrub#kiozx. Quotient = 0.272727
+14: It is flower: flower type = domestic, name = flower#12345. Quotient = 0.166667
+15: It is flower: flower type = garden, name = flower#aoxzi. Quotient = 0.416667
+16: It is flower: flower type = wild, name = flower#noiez. Quotient = 0.416667
+17: Invalid plant type!

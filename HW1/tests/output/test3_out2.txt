@@ -1,0 +1,11 @@
+Container after sorting:
+Container contains 9 elements.
+0: It is shrub: flowering season = january, name = shrub#abbbb. Quotient = 0.181818
+1: It is flower: flower type = domestic, name = flower#abbbb. Quotient = 0.25
+2: It is shrub: flowering season = february, name = shrub#aabbb. Quotient = 0.272727
+3: It is tree: age = 29, name = tree#abbbb. Quotient = 0.3
+4: It is flower: flower type = garden, name = flower#aabbb. Quotient = 0.333333
+5: It is shrub: flowering season = march, name = shrub#aiosp. Quotient = 0.363636
+6: It is shrub: flowering season = Invalid month number!, name = shrub#onuib. Quotient = 0.363636
+7: It is flower: flower type = wild, name = flower#aaoiz. Quotient = 0.5
+8: It is tree: age = 93, name = tree#aaaaa. Quotient = 0.7

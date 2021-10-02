@@ -1,0 +1,10 @@
+Filled container:
+Container contains 8 elements.
+0: It is tree: age = 29, name = tree#abbbb. Quotient = 0.3
+1: It is tree: age = 93, name = tree#aaaaa. Quotient = 0.7
+2: It is shrub: flowering season = january, name = shrub#abbbb. Quotient = 0.181818
+3: It is shrub: flowering season = february, name = shrub#aabbb. Quotient = 0.272727
+4: It is shrub: flowering season = march, name = shrub#aaabb. Quotient = 0.363636
+5: It is flower: flower type = domestic, name = flower#abbbb. Quotient = 0.25
+6: It is flower: flower type = garden, name = flower#aabbb. Quotient = 0.333333
+7: It is flower: flower type = wild, name = flower#aaaaa. Quotient = 0.583333

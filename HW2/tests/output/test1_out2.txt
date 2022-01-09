@@ -1,0 +1,5 @@
+Container after sorting:
+Container contains 3 elements.
+0: It is Shrub: flowering season = january, name = shrub#abbbb. Quotient = 0.181818
+1: It is flower: flower type = domestic, name = flower#abbbb. Quotient = 0.25
+2: It is tree: age = 54, name = tree#abbbb. Quotient = 0.3

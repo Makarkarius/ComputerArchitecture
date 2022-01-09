@@ -1,0 +1,19 @@
+Container stores 18 plants:
+0: Flower: name = flower#12345, flower type = DOMESTIC, quotient = 0.16666666666666666
+1: Flower: name = flower#abbbb, flower type = DOMESTIC, quotient = 0.25
+2: Shrub: name = aksdjalk, flowering month = INVALID_MONTH_NUMBER, quotient = 0.25
+3: Shrub: name = aksdjalk, flowering month = INVALID_MONTH_NUMBER, quotient = 0.25
+4: Shrub: name = shrub#kiozx, flowering month = MARCH, quotient = 0.2727272727272727
+5: Flower: name = flower#aab$b, flower type = GARDEN, quotient = 0.3333333333333333
+6: Shrub: name = shrub#aboiy, flowering month = JANUARY, quotient = 0.36363636363636365
+7: Shrub: name = shrub#aiosp, flowering month = MARCH, quotient = 0.36363636363636365
+8: Shrub: name = shrub#iozhe, flowering month = JANUARY, quotient = 0.36363636363636365
+9: Flower: name = flower#aoesz, flower type = WILD, quotient = 0.4166666666666667
+10: Flower: name = flower#aoxzi, flower type = GARDEN, quotient = 0.4166666666666667
+11: Flower: name = flower#noiez, flower type = WILD, quotient = 0.4166666666666667
+12: Shrub: name = shrub#aoiut, flowering month = FEBRUARY, quotient = 0.45454545454545453
+13: Shrub: name = shrub#ooiuz, flowering month = FEBRUARY, quotient = 0.45454545454545453
+14: Tree: name = tree#aasad, age = 29, quotient = 0.5
+15: Tree: name = tree#aaisd, age = 93, quotient = 0.5
+16: Tree: name = tree#abooo, age = 29, quotient = 0.6
+17: Tree: name = tree#aeeee, age = 93, quotient = 0.7

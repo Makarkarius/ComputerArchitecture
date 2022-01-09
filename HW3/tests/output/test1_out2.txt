@@ -1,0 +1,4 @@
+Container stores 3 plants:
+Shrub: name = shrub#abbbb, flowering month = JANUARY, quotient = 0.18181818181818182
+Flower: name = flower#abbbb, flower type = DOMESTIC, quotient = 0.25
+Tree: name = tree#abbbb, age = 54, quotient = 0.3

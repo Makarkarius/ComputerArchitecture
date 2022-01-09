@@ -1,0 +1,10 @@
+Container stores 9 plants:
+0: Flower: name = flower#abbbb, flower type = DOMESTIC, quotient = 0.25
+1: Flower: name = flower#a12dz, flower type = INVALID_PLACE_NUMBER, quotient = 0.25
+2: Flower: name = flower#aab$b, flower type = GARDEN, quotient = 0.3333333333333333
+3: Shrub: name = shrub#aboiy, flowering month = JANUARY, quotient = 0.36363636363636365
+4: Shrub: name = shrub#aiosp, flowering month = MARCH, quotient = 0.36363636363636365
+5: Flower: name = flower#aoesz, flower type = WILD, quotient = 0.4166666666666667
+6: Shrub: name = shrub#aoiut, flowering month = FEBRUARY, quotient = 0.45454545454545453
+7: Tree: name = tree#abooo, age = 29, quotient = 0.6
+8: Tree: name = tree#aeeee, age = 93, quotient = 0.7

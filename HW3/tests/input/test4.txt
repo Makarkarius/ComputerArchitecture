@@ -1,0 +1,9 @@
+1 tree#abooo 29
+1 tree#aeeee 93
+2 shrub#aboiy 1
+2 shrub#aoiut 2
+2 shrub#aiosp 3
+3 flower#abbbb 1
+3 flower#aab$b 2
+3 flower#aoesz 3
+3 flower#a12dz 93

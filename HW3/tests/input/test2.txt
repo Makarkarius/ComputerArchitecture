@@ -1,0 +1,8 @@
+1 tree#abbbb 29
+1 tree#aaaaa 93
+2 shrub#abbbb 1
+2 shrub#aabbb 2
+2 shrub#aaabb 3
+3 flower#abbbb 1
+3 flower#aabbb 2
+3 flower#aaaaa 3

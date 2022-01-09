@@ -1,0 +1,9 @@
+Container stores 8 plants:
+Shrub: name = shrub#abbbb, flowering month = JANUARY, quotient = 0.18181818181818182
+Flower: name = flower#abbbb, flower type = DOMESTIC, quotient = 0.25
+Shrub: name = shrub#aabbb, flowering month = FEBRUARY, quotient = 0.2727272727272727
+Tree: name = tree#abbbb, age = 29, quotient = 0.3
+Flower: name = flower#aabbb, flower type = GARDEN, quotient = 0.3333333333333333
+Shrub: name = shrub#aaabb, flowering month = MARCH, quotient = 0.36363636363636365
+Flower: name = flower#aaaaa, flower type = WILD, quotient = 0.5833333333333334
+Tree: name = tree#aaaaa, age = 93, quotient = 0.7

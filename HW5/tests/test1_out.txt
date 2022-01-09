@@ -1,0 +1,4 @@
+Male Visitor Alex checked in the single room number 1
+Female Visitor Lix checked in the single room number 2
+Male Visitor Alex checked out the single room number 1
+Female Visitor Lix checked out the single room number 2

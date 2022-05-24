@@ -1,3 +1,0 @@
-/mnt/e/edu/авс/hw1/src/tmp/CMakeFiles/rebuild_cache.dir
-/mnt/e/edu/авс/hw1/src/tmp/CMakeFiles/edit_cache.dir
-/mnt/e/edu/авс/hw1/src/tmp/CMakeFiles/HW1.dir
